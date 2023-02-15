@@ -1,0 +1,28 @@
+{
+  "name": "Iswap Default List",
+  "tokens": [
+    {
+      "symbol": "JFI",
+      "address": "0x854abd86ab4b76ec440eb7f4eeeba79e6d499417",
+      "chainId": 11111,
+      "decimals": 18,
+      "name": "JFI TOKEN",
+      "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+    },
+    {
+      "symbol": "TAI",
+      "address": "0xaf2c205a7e44f79f680d149d339b733f6d34b6d5",
+      "chainId": 11111,
+      "decimals": 8,
+      "name": "TAI",
+      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+    }
+  ],
+  "logoURI": "https://intercroneswap.finance/iswap.png",
+  "version": {
+    "patch": 1,
+    "major": 1,
+    "minor": 0
+  },
+  "timestamp": "2021-11-01T00:12:46.685Z"
+}
